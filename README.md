@@ -2,8 +2,8 @@
 
 ### EDIT BELOW
 
-Name: Nathan Greenfield
+Name: Ellaine Effendi
 
-Email: greenfield_nathan@smc.edu
+Email: effendi_ellaine_fa01@student.smc.edu
 
 Platform: MAC
